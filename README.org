@@ -1,8 +1,8 @@
-# Genetic Algorithm in JavaScript
+* Genetic Algorithm in JavaScript
 
-From [[http://www.meetup.com/West-London-Hack-Night/][West London Hack Night]] 11/7/2013, this is a genetic algorithm
-that creates a pool of random strings, and sees if evolution will draw
-that pool towards an ideal target string.
+From [[http://www.meetup.com/West-London-Hack-Night/][West London Hack Night]] 11th July 2013, this is a genetic
+algorithm that creates a pool of random strings, and sees if evolution
+will draw that pool towards an ideal target.
 
 The code is exactly as written after about 1hr 20m of hacking, so
 you'll have to excuse all the obvious rough edges. That said, it
